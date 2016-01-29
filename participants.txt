@@ -1,6 +1,10 @@
 Finance team
 -Charles
 -Lisa
+<<<<<<< HEAD
+
+
+
 -John
 -Stacy
 -Alexander
@@ -11,3 +15,6 @@ Marketing team
 -Patricia
 -Morgan
 -Amanda
+=======
+-John
+>>>>>>> master
